@@ -25,8 +25,8 @@
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Acesse o projeto finalizado online]
+- [Acesse o projeto finalizado online](https://vonhaine.github.io/habits/)
 
 ## 📋 Layout
 
-Voce ode acessar o layout do projeto atráves [DESTE LINK](<https://www.figma.com/file/KitWPN3zVeLHISwIAiSO55/Habits-(e)-(Community)?node-id=75%3A128&t=oagNuAZhLEzUW9Bw-0>). É necessáro ter uma conta no [Figma](https://www.figma.com)
+Voce ode acessar o layout do projeto atráves [deste link](<https://www.figma.com/file/KitWPN3zVeLHISwIAiSO55/Habits-(e)-(Community)?node-id=75%3A128&t=oagNuAZhLEzUW9Bw-0>). É necessáro ter uma conta no [Figma](https://www.figma.com)
